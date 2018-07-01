@@ -228,7 +228,7 @@ DEPENDENCIES
   devise (~> 4.4, >= 4.4.3)
   jbuilder (~> 2.5)
   listen (>= 3.0.5, < 3.2)
-  pg (~> 1.0)
+  pg
   puma (~> 3.11)
   rails (~> 5.2.0)
   rails_12factor
