@@ -4,7 +4,6 @@ git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '2.5.1'
 
 gem 'rails', '~> 5.2.0'
-gem 'sqlite3'
 gem 'puma', '~> 3.11'
 gem 'sass-rails', '~> 5.0'
 gem 'simple_form', '~> 4.0', '>= 4.0.1'
@@ -15,7 +14,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
-
+gem 'pg', '~> 1.0'
 
 
 gem 'bootsnap', '>= 1.1.0', require: false
@@ -44,3 +43,12 @@ end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
+
+
+group :development do
+  gem 'sqlite3'
+end 
+
+group :production do
+  gem 'pg', '~> 1.0'
+end 
