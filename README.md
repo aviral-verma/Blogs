@@ -24,11 +24,11 @@ This is a Ruby on Rails web application which will allows people to Sign Up and 
 
      *Once you do this, you would realise that you have actually **posted** your first blog! The blog will apear in the form of a tile where just the title of the blog will be visible and you need to click on the **'View Blog'** buttoon in order to see it.*
 
-- Once you click on **'View Blog'**, you will see a bigger tile screen with the 'title' of the blog at the top. Just below the **'Title'** will appear the email address of the person who posted the blog. It will also show the *number of hours* before which the blog was posted. 
+- Once you click on **'View Blog'**, you will see a bigger tile screen with the 'title' of the blog at the top. Just below the **'Title'** will appear the **email address** of the person who posted the blog. It will also show the *number of hours* before which the blog was posted. 
 
    For e.g., a blog which was posted 6 hours ago by me will show **'Posted by aviralverma.verma@gmail.com about 6 hours ago'**.
 
-- This statemnt will be followed by the actual content of the blog. Just below the blog will be a heading **'Comments:**, where all the comments of the blog will appear(i.e. if any user commented on the blog then his/her comments will appear here.) If you yourself commented on any blog, then you will get to see two buttons namely **'Edit'** and **'Delete'** allowing you to modify and delete your comment respectively. Remember you cannot edit or delete comments of any other user.
+- This statement will be followed by the actual content of the blog. Just below the blog will be a heading **'Comments:**, where all the comments of the blog will appear(i.e. if any user commented on the blog then his/her comments will appear here.) If you yourself commented on any blog, then you will get to see two buttons namely **'Edit'** and **'Delete'** allowing you to modify and delete your comment respectively. Remember you cannot edit or delete comments of any other user.
 
 Just below the **'Comments:'** heading will be a heading **'Reply to Blog'** with an input field below it where users can actually write comments related to the blog by pressing the **'Create Comment'** button.
 
