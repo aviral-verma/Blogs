@@ -13,6 +13,7 @@ This is a Ruby on Rails web application which will allows people to Sign Up and 
 
 - The blogs posted will also display the email address of the user who posted the blog along with the number of hours prior to which the blog was posted.
 
+## Let's dive into the details:
 The navigation bar comprises of **'Sign Up'** and **'Log in'** as soon as you land into the app. 
 
 Once you **'Sign Up'** using your email-id, the navigation bar will display additional **'Sign Out'** and **'New Blog'** tabs.
