@@ -37,6 +37,8 @@ Link of the app: https://message-board-connect.herokuapp.com/
 
 - You can go back to the main page either by pressing the **'Back'** button at the bottom or by clicking on the top most heading which says **'BLOGS(CREATED BY AVIRAL VERMA)'**.
 
+- I hope you will like this simple app made just for learning purpose :)
+
 
 
 
