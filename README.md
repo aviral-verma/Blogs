@@ -4,11 +4,11 @@ An overview of the features the app provides:
 - Allows the users to post blogs once they Sign Up or Log In(if they are already signed up)
 - Allows the users to view blogs posted by others even if they are not logged in. But then they can not use the additional features which the app provided which are listed below.
 
-1. **New Blog**: It allows the users to create a new blog
-2. **View Blog**: It allows anyone to view the blog.
-3. **Reply to Blog**: It allows the users to comment on any blog.
-4. **Edit**: It allows the users to edit their blog or their comment on any blog.
-5. **Delete**: It allows the users to delete their blog or their comment on any blog.
+       1. **New Blog**: It allows the users to create a new blog
+       2. **View Blog**: It allows anyone to view the blog.
+       3. **Reply to Blog**: It allows the users to comment on any blog.
+       4. **Edit**: It allows the users to edit their blog or their comment on any blog.
+       5. **Delete**: It allows the users to delete their blog or their comment on any blog.
 
 - The blogs posted will also display the email address of the user who posted the blog along with the number of hours prior to which the blog was posted.
 
