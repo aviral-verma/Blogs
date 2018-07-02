@@ -1,9 +1,9 @@
 # README
-This is a Ruby on Rails web application which will allow people to Sign Up and post their blogs.
+This is a Ruby on Rails web application which will allows people to Sign Up and post blogs.
 
 ## An overview of the features the app provides:
 - Allows the users to post blogs once they Sign Up or Log In(if they are already signed up)
-- Allows the users to view blogs posted by others even if they are not logged in. But then they can not use the additional features which the app provided which are listed below.
+- Allows the users to view blogs posted by others even if they are not logged in. But then they can not use some of the additional features which the app provides which are listed below.
 
        1. New Blog: It allows the users to create a new blog
        2. View Blog: It allows anyone to view the blog.
