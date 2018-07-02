@@ -28,7 +28,7 @@ This is a Ruby on Rails web application which will allows people to Sign Up and 
 
    For e.g., a blog which was posted 6 hours ago by me will show **'Posted by aviralverma.verma@gmail.com about 6 hours ago'**.
 
-- This statement will be followed by the actual content of the blog. Just below the blog will be a heading **'Comments:**, where all the comments of the blog will appear(i.e. if any user commented on the blog then his/her comments will appear here.) If you yourself commented on any blog, then you will get to see two buttons namely **'Edit'** and **'Delete'** allowing you to modify and delete your comment respectively. Remember you cannot edit or delete comments of any other user.
+- This statement will be followed by the actual content of the blog. Just below the blog will be a heading **'Comments:**, where all the comments of the blog will appear(i.e. if any user commented on the blog then his/her comments will appear here.) If you yourself commented on any blog, then you will get to see two buttons namely **'Edit'** and **'Delete'** allowing you to modify and delete your comment respectively. Remember, you cannot edit or delete the comments of any other user.
 
 Just below the **'Comments:'** heading will be a heading **'Reply to Blog'** with an input field below it where users can actually write comments related to the blog by pressing the **'Create Comment'** button.
 
