@@ -2,7 +2,7 @@
     <div class="message-show">
             <h2><%= @message.title %></h2>
             <p class="message-posted-by">Posted by <%= @message.user.email %> <%= time_ago_in_words(@message.created_at) %> ago</p>
-            <p class="message-desc"><%= @message.description %></p>
+            <pre class="message-desc"><%= @message.description %></pre>
              
             <h3>Comments:</h3>
             
