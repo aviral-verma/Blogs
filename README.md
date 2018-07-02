@@ -30,11 +30,11 @@ This is a Ruby on Rails web application which will allows people to Sign Up and 
 
 - This statement will be followed by the actual content of the blog. Just below the blog will be a heading **'Comments:**, where all the comments of the blog will appear(i.e. if any user commented on the blog then his/her comments will appear here.) If you yourself commented on any blog, then you will get to see two buttons namely **'Edit'** and **'Delete'** allowing you to modify and delete your comment respectively. Remember, you cannot edit or delete the comments of any other user.
 
-Just below the **'Comments:'** heading will be a heading **'Reply to Blog'** with an input field below it where users can actually write comments related to the blog by pressing the **'Create Comment'** button.
+- Just below the **'Comments:'** heading will be a heading **'Reply to Blog'** with an input field below it where users can write comments related to the blog by pressing the **'Create Comment'** button.
 
-Then you will see three more buttons, mainly **'Back'**, **'Edit'** and **'Delete'** buttons allowing you to 'go back to the main page of the app', to edit the blog and to delete the blog respectively. Remember **'Edit'**, and **'Delete'** fetaures are accessible only to the blogs created by you. You can not edit or delete te blogs created by any other user.
+- Below the **'Create Comment'** button you will see three more buttons, namely **'Back'**, **'Edit'** and **'Delete'** buttons allowing you to 'go back to the main page of the app', to 'edit' the blog and to 'delete' the blog respectively. Remember, **'Edit'**, and **'Delete'** fetaures are accessible only to the blogs created by you. You can not edit or delete the blogs created by any other user.
 
-You can go back to the main page either by pressing the **'Back'** button at the bottom or by clicking on the top most heading at the top which says **'BLOGS(CREATED BY AVIRAL VERMA)'**
+- You can go back to the main page either by pressing the **'Back'** button at the bottom or by clicking on the top most heading at the top which says **'BLOGS(CREATED BY AVIRAL VERMA)'**
 
 
 
