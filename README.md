@@ -1,5 +1,6 @@
 # README
-This is a Ruby on Rails web application which will allows people to Sign Up and post blogs.
+This is a Ruby on Rails web application which will allows people to Sign Up and post blogs. The app is currently deployed to Heroku.
+Link of the app: https://message-board-connect.herokuapp.com/
 
 ## An overview of the features the app provides:
 - Allows the users to post blogs once they Sign Up or Log In(if they are already signed up)
@@ -34,7 +35,7 @@ This is a Ruby on Rails web application which will allows people to Sign Up and 
 
 - Below the **'Create Comment'** button you will see three more buttons, namely **'Back'**, **'Edit'** and **'Delete'** buttons allowing you to 'go back to the main page of the app', to 'edit' the blog and to 'delete' the blog respectively. Remember, **'Edit'**, and **'Delete'** fetaures are accessible only to the blogs created by you. You can not edit or delete the blogs created by any other user.
 
-- You can go back to the main page either by pressing the **'Back'** button at the bottom or by clicking on the top most heading at the top which says **'BLOGS(CREATED BY AVIRAL VERMA)'**
+- You can go back to the main page either by pressing the **'Back'** button at the bottom or by clicking on the top most heading which says **'BLOGS(CREATED BY AVIRAL VERMA)'**.
 
 
 
