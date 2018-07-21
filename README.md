@@ -1,5 +1,5 @@
 # README
-This is a Ruby on Rails web application which will allows people to Sign Up and post blogs. The app is currently deployed to Heroku.
+This is a Ruby on Rails web application which allows people to Sign Up and post blogs. The app is currently deployed to Heroku.
 Link of the app: https://message-board-connect.herokuapp.com/
 
 ## An overview of the features the app provides:
